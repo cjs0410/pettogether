@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30803c88.css",
+    "main.js": "/static/js/main.771c8779.js",
+    "static/media/catawake.jpg": "/static/media/catawake.afd7b3c832900259a1e9.jpg",
+    "static/media/catdogwindow.jpg": "/static/media/catdogwindow.d5439e7a0f2104a74bbc.jpg",
+    "static/media/Roseeta.svg": "/static/media/Roseeta.0071d3f051866fb76ca60d3fecb454d6.svg",
+    "index.html": "/index.html",
+    "main.30803c88.css.map": "/static/css/main.30803c88.css.map",
+    "main.771c8779.js.map": "/static/js/main.771c8779.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30803c88.css",
+    "static/js/main.771c8779.js"
+  ]
+}
